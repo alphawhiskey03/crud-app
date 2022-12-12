@@ -34,13 +34,10 @@ MongoDB
 
 <img src="./preview/add.png"/>
 
-# Update page
+# Update
 
 <img src="./preview/update.png"/>
 
-# Post page
-
-<img src="./preview/post.png"/>
 
 ## Setup
 
