@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 require("dotenv").config();
+const cors = require("cors");
 const studentRouter = require("./routers");
 
 const app = express();
@@ -12,6 +13,6 @@ mongoose.connect(DB_URI).then(() => {
   app.listen(PORT);
   console.log(`App listening to ${PORT}`);
 });
-
+app.use(cors());
 app.use(bodyParser.json());
-app.use("/user", studentRouter);
+app.use("/students", studentRouter);
