@@ -4,7 +4,7 @@
 <a href="#overview">Overview</a> | <a href="#tech_stack">Tech stack</a> |  <a href="#preview">Preview</a> |  <a href="#setup">Setup</a>
 </div>
 
-## Overview
+# Overview
 
 <div id="overview"></div>
 
@@ -22,24 +22,24 @@ Mongoose
 MongoDB
 ```
 
-## Preview
+# Preview
 
 <div id="preview"></div>
 
-# Home page
+## Home page
 
 <img src="preview/main.png"/>
 
-# Add
+## Add
 
 <img src="preview/add.png"/>
 
-# Update
+## Update
 
 <img src="preview/update.png"/>
 
 
-## Setup
+# Setup
 
 `/server/.env`
 
