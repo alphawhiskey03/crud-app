@@ -28,15 +28,15 @@ MongoDB
 
 # Home page
 
-<img src="./preview/main.png"/>
+<img src="preview/main.png"/>
 
 # Add
 
-<img src="./preview/add.png"/>
+<img src="preview/add.png"/>
 
 # Update
 
-<img src="./preview/update.png"/>
+<img src="preview/update.png"/>
 
 
 ## Setup
