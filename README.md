@@ -48,7 +48,7 @@ MONGODB_URI=<mongodb-uri>
 SERVER_PORT=<desired-port-number>
 ```
 
-# Start server
+## Start server
 
 ```
 npm run serve
@@ -58,7 +58,7 @@ yarn serve
 
 ```
 
-# Start client
+## Start client
 
 ```
 npm run dev
